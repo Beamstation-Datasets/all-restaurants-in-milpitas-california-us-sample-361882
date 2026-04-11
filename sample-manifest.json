@@ -1,0 +1,12 @@
+{
+  "export_job_id": "53a4dbc3-de34-4416-8195-14522c2db652",
+  "id_short": 361882,
+  "published_at": "2026-04-11T07:38:04Z",
+  "repo_name": "all-restaurants-in-milpitas-california-us-sample-361882",
+  "sample_asset_name": "beamstation_361882_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/361882/beamstation_361882_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 33,
+  "sample_sha256": "9ebb0726101b27c81b31cb761461e32c5d1a3fd5b6ed6e53ec612d38310eaf51",
+  "sample_size_bytes": 138859,
+  "total_records": 333
+}
