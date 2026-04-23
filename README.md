@@ -1,6 +1,6 @@
 # All Restaurants in Milpitas, California, US
 
-> Free BeamStation sample export with 33 rows and masked direct-contact fields.
+> Free BeamStation sample export with 27 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `361882` |
 | Location | Milpitas |
 | Category | Restaurants |
-| Full dataset size | 331 records |
-| Free sample size | 33 records (9.97%) |
-| Last export | 2026-04-16T17:50:54.949235+00:00 |
+| Full dataset size | 278 records |
+| Free sample size | 27 records (9.71%) |
+| Last export | 2026-04-23T14:27:03.172309+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-milpitas-california-us-sample-361882/releases/download/sample-latest/beamstation_361882_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
